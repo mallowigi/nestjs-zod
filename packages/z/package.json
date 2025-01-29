@@ -1,7 +1,7 @@
 {
-  "name": "@nest-zod/z",
+  "name": "@mallowigi/z",
   "description": "Extended zod with a few additional types and helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/z.js",
   "exports": {
     ".": {

@@ -1,7 +1,7 @@
 {
   "name": "@mallowigi/nestjs-zod",
   "description": "All NestJS + Zod utilities you need",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "main": "./dist/index.js",
   "exports": {
     ".": "./dist/index.js",
@@ -83,6 +83,6 @@
   },
   "dependencies": {
     "deepmerge": "^4.3.1",
-    "@nest-zod/z": "*"
+    "@mallowigi/z": "^1.0.2"
   }
 }
